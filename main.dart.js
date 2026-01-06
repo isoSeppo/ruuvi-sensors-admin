@@ -80878,7 +80878,7 @@ break}m.ab(new A.aeD(m))
 p=4
 g=t.N
 f=t.z
-l=A.f2("https://www.isoseppo.fi/eTammela/api/bootstrap_admin.php").zy(A.a5(["username",c],g,f))
+l=A.f2("https://www.isoseppo.fi/eTammela/api/admin/bootstrap_admin.php").zy(A.a5(["username",c],g,f))
 s=7
 return A.S(A.ans(l),$async$r_)
 case 7:k=a0
